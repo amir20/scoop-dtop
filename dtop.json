@@ -1,0 +1,29 @@
+{
+    "version": "0.0.26",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.26/dtop_windows_i386.zip",
+            "bin": [
+                "dtop.exe"
+            ],
+            "hash": "b729b649ffc42675c1e15a29f15d17e54805530d378dbc5736a405a6567f00fa"
+        },
+        "64bit": {
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.26/dtop_windows_x86_64.zip",
+            "bin": [
+                "dtop.exe"
+            ],
+            "hash": "06ee976b4b9a0aa36589afaf76701370acc63d53df887632df5dcbe7355723e2"
+        },
+        "arm64": {
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.26/dtop_windows_arm64.zip",
+            "bin": [
+                "dtop.exe"
+            ],
+            "hash": "e5abbc31a18a3c7f730ce1326a617fb24bb892f2b1550aabc364b4c61a32540e"
+        }
+    },
+    "homepage": "https://github.com/amir20/dtop",
+    "license": "MIT",
+    "description": "dtop - A top-like tool for Docker containers"
+}
