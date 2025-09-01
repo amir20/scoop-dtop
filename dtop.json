@@ -1,26 +1,26 @@
 {
-    "version": "0.0.40",
+    "version": "0.0.41",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/amir20/dtop/releases/download/v0.0.40/dtop_windows_i386.zip",
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.41/dtop_windows_i386.zip",
             "bin": [
                 "dtop.exe"
             ],
-            "hash": "b5961ac8fc6818ca8122d4390be4dd5a5ba3cf539ef1c600c91c5a6662bdc078"
+            "hash": "cb66133b1f2f6e4369a08b42949674e100b4fb91aa800114ae9515a113e4be9b"
         },
         "64bit": {
-            "url": "https://github.com/amir20/dtop/releases/download/v0.0.40/dtop_windows_x86_64.zip",
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.41/dtop_windows_x86_64.zip",
             "bin": [
                 "dtop.exe"
             ],
-            "hash": "af80ec930dab509a5caf1871966ecce6e8c5bf473ab3a4e653e2e31cceb19e60"
+            "hash": "0d31be3fa72b18867ac5ec3afe283dde5eda8353d7096a44576f42d7f5d549b3"
         },
         "arm64": {
-            "url": "https://github.com/amir20/dtop/releases/download/v0.0.40/dtop_windows_arm64.zip",
+            "url": "https://github.com/amir20/dtop/releases/download/v0.0.41/dtop_windows_arm64.zip",
             "bin": [
                 "dtop.exe"
             ],
-            "hash": "f8cb87f2468cd42d75fe04b83edbe2b37a45cb84a2a5c184c6dacec564834233"
+            "hash": "8d8d30a40b6fe53fec4e160cd02832300a6cab46a87d10083afcf6da10f6c43c"
         }
     },
     "homepage": "https://github.com/amir20/dtop",
